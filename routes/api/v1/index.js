@@ -4,7 +4,6 @@ const router = express.Router();
 // Handling v1 routes
 router.use("/doctors", require("./doctors"));
 
-
 router.use("/patients", require("./patients"));
 router.use("/reports", require("./reports"));
 
