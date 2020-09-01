@@ -1,5 +1,6 @@
 # Covid-19 API
-API for Doctors of a Hospital which has been allocated by the govt. for testing, quarantine as well as well being of COVID-19 patients. Submitted to Arpan Garg(Coding Ninjas) by Shubham Rakshit as Mock Interview.
+
+API for Doctors of a Hospital which has been allocated by the govt. for testing, quarantine as well as well being of COVID-19 patients. Submitted to Coding Ninjas (Backend test-3) by Sonu Kumar .
 
 #### Setup the Project
 
@@ -10,6 +11,7 @@ API for Doctors of a Hospital which has been allocated by the govt. for testing,
 5. Use **Postman** to test the api.
 
 #### Routes
+
 1. **Register a Doctor:** `[POST]: /api/v1/doctors/register`
 2. **Login for Doctor:** `[POST]: /api/v1/doctors/login`
 3. **Register a patient:** `[POST]: /api/v1/patients/register`
